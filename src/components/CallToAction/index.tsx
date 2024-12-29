@@ -29,16 +29,7 @@ const CallToAction = () => {
               </div>
             </div>
           </div>
-          <div className="flex items-center  justify-center  pb-0 p-6">
-          <Image
-            src="/images/animations/animation03.jfif" 
-            alt="anim"
-            width={200}
-            height={200}
-            className="m-0 p-0 rounded-2xl"
->
-          </Image>
-          </div>
+      
         </div>
       </div>
       <div>
