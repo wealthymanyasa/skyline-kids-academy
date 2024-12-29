@@ -18,7 +18,7 @@ const CallToAction = () => {
                 </h2>
                 <p className="mx-auto mb-6 max-w-[515px] text-base leading-[1.5] text-white">
                   We invite you to become a part of the Skyline Kids Academy family. Explore our programs,
-                  meet our team, and discover how we can support your child's educational journey.
+                  meet our team, and discover how we can support your child&apos;s educational journey.
                 </p>
                 <Link
                   href="/contact"

@@ -23,7 +23,7 @@ const About = () => {
                   equipped with the skills and confidence to navigate an
                    ever-changing world.
                    <br /> <br />
-                   We are committed to providing personalized attention to each student, ensuring they feel valued and supported throughout their time at Skyline Kids Academy. We invite you to become a part of our family and discover how we can support your child's educational journey.
+                   We are committed to providing personalized attention to each student, ensuring they feel valued and supported throughout their time at Skyline Kids Academy. We invite you to become a part of our family and discover how we can support your child&apos;s educational journey.
 
                 </p>
                 <a
