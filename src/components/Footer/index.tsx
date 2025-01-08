@@ -276,7 +276,7 @@ const Footer = () => {
                 <p className="text-base text-gray-7">
                   Designed and Developed by{" "}
                   <a
-                    href="https://obertmanyasa.web.app"
+                    href="https://api.whatsapp.com/send?phone=263719048241"
                     rel="codegang"
                     target="_blank"
                     className="text-gray-1 hover:underline"
